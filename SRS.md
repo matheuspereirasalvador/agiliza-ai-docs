@@ -1,6 +1,6 @@
-# 📋 Especificação de Produto: Agiliza Aí (v1.4 – Gold Master Final) — Versão Simplificada
+# 📋 Especificação de Produto: Agiliza Aí (v1.4 – Gold Master Final)
 
-## 1. Glossário e Definições (palavras simples)
+## 1. Glossário e Definições
 * **Tenant:** Prefeitura que contratou o sistema (ex: Prefeitura de Ourinhos).
 * **Cluster de Recorrência:** Grupo de 3 ou mais problemas da mesma categoria num raio de 50m e em até 7 dias.
 * **Geofencing (Raio de Segurança):** Regra que bloqueia um envio se o GPS do celular estiver a mais de 200 metros do local marcado no mapa.
@@ -12,7 +12,7 @@
 
 ---
 
-## 2. Regras de Negócio (RN) — explicadas de forma direta
+## 2. Regras de Negócio (RN)
 
 ### 2.1 Identidade e Acesso
 
