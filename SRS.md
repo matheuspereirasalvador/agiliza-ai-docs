@@ -169,6 +169,3 @@
 - Limitar o número de imagens por publicação fica no backlog (recomendado: máximo 5).
 
 ---
-
-**Status:** Gold Master  
-**Aprovado para QA:** ✅
